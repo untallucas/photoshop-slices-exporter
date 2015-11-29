@@ -11,10 +11,10 @@ None of these are handy solutions for my workflow, so I decided to do this scrip
 - Inside that layer group, create a **new layer** for each slice you want to export.
 - In each one of these layers, **fill the area** that you want to crop and export (any color or content will do the trick).
 - Remember to leave visible just the layers you want to export.
-- Run the script.
+- Run the script. (File > Scripts > Browse)
 
 #####THE SCRIPT WILL
-- Ask for input (slices layer group name, export file name setup)
+- Ask for some input (slices layer group name, export file name setup, export folder)
 - Recognice the layer group where the "slices" are stored.
 - Choose one of the layers.
 - Make a selection from the layer.
