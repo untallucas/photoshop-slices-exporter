@@ -22,4 +22,5 @@ None of these are handy solutions for my workflow, so I decided to do this scrip
 - Go on with the next layer.
 
 This has been **very** helpful in my workflow, hope you can use it too.
+Tested only in CS6, on OSX.
 Programming scripts it's not my main task, but feedback to improve this one in the future is welcome.
