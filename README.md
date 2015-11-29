@@ -6,14 +6,12 @@ The workarounds I've found implies to crop and create a new file for every slice
 
 None of these are handy solutions for my workflow, so I decided to do this script that **treats certain layers as slices, cropping and exporting an image for each one**.
 
-
 #####USAGE
 - Create a new **layer group**.
 - Inside that layer group, create a **new layer** for each slice you want to export.
 - In each one of these layers, **fill the area** that you want to crop and export (any color or content will do the trick).
 - Remember to leave visible just the layers you want to export.
 - Run the script.
-
 
 #####THE SCRIPT WILL
 - Ask for input (slices layer group name, export file name setup)
